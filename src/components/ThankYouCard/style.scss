@@ -1,0 +1,17 @@
+.rating-card-wrapper {
+    text-align: center;
+    .title {
+        margin: 1.5rem 0 1rem;
+        color: hsl(0, 0%, 100%);
+        font-size: 1.85rem;
+    }
+
+    .description {
+        color: hsl(217, 12%, 63%);
+        line-height: 1.5;
+    }
+
+    .thank-you-img {
+        margin: 1rem 0 1.5rem;
+    }
+}

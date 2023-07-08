@@ -12,7 +12,7 @@ export default function ThankYouCard() {
     const rating = useGlobalStore((state) => state.rating);
 
     return (
-        <div className="rating-card-wrapper">
+        <div className="thankyou-card-wrapper">
             <Card>
                 <img
                     className="thank-you-img"

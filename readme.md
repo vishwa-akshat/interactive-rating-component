@@ -66,6 +66,8 @@ This is a solution to the Interactive Rating Component challenge on Frontend Men
 
     ```bash
     npm install
+    // or
+    yarn install
     ```
 
 ## Usage
@@ -74,6 +76,8 @@ This is a solution to the Interactive Rating Component challenge on Frontend Men
 
     ```bash
     npm run dev
+     // or
+    yarn run dev
     ```
 
 2. Open your browser and visit [http://localhost:5173/](http://localhost:5173/) to view the application.
